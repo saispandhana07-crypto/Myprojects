@@ -1,24 +1,24 @@
-# Myprojects
+ Myprojects
 
-## 📌 About
+ About
 This repository contains my Java projects focused on problem-solving and object-oriented programming concepts.
 
-## 💻 Projects Included
+ 1.Projects Included
 
-### 🔹 Bank System (Java)
+ Bank System (Java)
 - Developed a simple banking system using Java
 - Features:
   - Deposit & withdrawal
   - Balance checking
 
-### 🔹 Palindrome Checker
+ Palindrome Checker
 - Checks whether a given string is a palindrome
 
-## 🛠️ Technologies Used
+ 2.Technologies Used
 - Java
 - OOP Concepts
 
-## 🎯 Purpose
+3. Purpose
 This repository showcases my learning journey and hands-on practice in Java programming. 
 
-##author - spandhana
+4.Author - Spandhana
