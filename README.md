@@ -1,5 +1,4 @@
 # Myprojects
-# 🚀 My Projects
 
 ## 📌 About
 This repository contains my Java projects focused on problem-solving and object-oriented programming concepts.
